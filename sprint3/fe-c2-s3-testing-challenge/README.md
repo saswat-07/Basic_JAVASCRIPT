@@ -91,3 +91,6 @@ Refactor the solution code to ensure the above listed test cases pass.
 
 1. This challenge would be manually evaluated.​
 2. Push the code to git and share the link with mentor for manual evaluation.
+
+
+- check the .gitignore for node_modules, `npm i` to install node_modules again.
